@@ -1,0 +1,32 @@
+{
+  "name": "contacts-hw1--node",
+  "version": "1.0.0",
+  "description": "Homework N1 Node JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anastasiiaLoz/contacts-hw1--node.js.git"
+  },
+  "keywords": [
+    "node",
+    "node.js"
+  ],
+  "author": "Anastasiia Lozovych <anna.collana@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anastasiiaLoz/contacts-hw1--node.js/issues"
+  },
+  "homepage": "https://github.com/anastasiiaLoz/contacts-hw1--node.js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "commander": "^7.2.0",
+    "esm": "^3.2.25",
+    "shortid": "^2.2.16"
+  }
+}
